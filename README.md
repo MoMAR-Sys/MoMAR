@@ -1,2 +1,2 @@
 # MoMAR
-Motion-informed environment texture optimization guidance for mobile AR
+The code required to implement the MoMAR system will be added here upon paper acceptance.
